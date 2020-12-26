@@ -29,7 +29,7 @@ font-size: 35px;
 
 h3
 {
-background-color:#AFEEEE;
+background-color:#FF69B4;
 width: 1300px;
 color: #191970;
 font-family: 'Mansalva', cursive;
@@ -43,11 +43,11 @@ padding: 0px;
 
 h4
 {
-background-color:#FF6347;
+background-color:#F08080;
 width: 1300px;
 color: #CD5C5C;
 font-family: 'Charmonman', cursive;
-font-size: 35px;
+font-size: 30px;
 border: solid;
 border-color: #8B0000;
 border-radius: 50px;
